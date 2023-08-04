@@ -11,3 +11,11 @@ For this problem, I implement a program that facilitate Tideman's voting method 
 I created a collection of filters for bmp photo. 
 Including functions of greyscale, reflect,blur and edge
 proj link: https://cs50.harvard.edu/x/2023/psets/4/filter/more/
+
+I created a data recovery algorithm for jpg fild recovery. 
+Use case of accidently deleted pics
+proj link: https://cs50.harvard.edu/x/2023/psets/4/recover/
+
+I created a reverse algorithm for reverse a .WAV file. 
+Use case of accidently deleted pics
+proj link: https://cs50.harvard.edu/x/2023/psets/4/reverse/
